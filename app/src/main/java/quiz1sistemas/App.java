@@ -47,6 +47,7 @@ public class App {
 
                 System.out.println("factura: ");
                 System.out.println("tipo de silla comprada" + tipoBoleta + );
+                System.out.println("valor total de las boletas" + valorBoletas);
         
         } catch (Exception e) {
             System.out.println("El error es: " + e);     
